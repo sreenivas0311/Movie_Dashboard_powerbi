@@ -1,3 +1,11 @@
+## 🛠 Skills
+
+![Power BI](https://img.shields.io/badge/Power_BI-FF6F00?style=for-the-badge&logo=power-bi&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)  
+![Power Query](https://img.shields.io/badge/Power_Query-003366?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Analysis](https://img.shields.io/badge/Analysis-FF5722?style=for-the-badge&logo=analytics&logoColor=white)  
+![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chart&logoColor=white)
+
 ✅ Project Overview
 
 In this project, we analyzed a comprehensive movie dataset by first performing thorough data cleaning to remove inconsistencies, handle missing values, and ensure uniform formatting across fields like budget, revenue, ratings, genres, and release details. After preparing the data, we used DAX (Data Analysis Expressions) to create calculated columns and measures for essential metrics such as profit, ROI, rating averages, revenue comparison, and performance scores.
