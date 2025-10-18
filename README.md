@@ -1,7 +1,7 @@
 ## 🛠 Skills
 
 ![Power BI](https://img.shields.io/badge/Power_BI-FF6F00?style=for-the-badge&logo=power-bi&logoColor=white)  
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft-dynamics&logoColor=white) 
 ![Power Query](https://img.shields.io/badge/Power_Query-003366?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Analysis](https://img.shields.io/badge/Analysis-FF5722?style=for-the-badge&logo=analytics&logoColor=white)  
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chart&logoColor=white)
